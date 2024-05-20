@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a color switcher application that allows users to switch colors dynamically.
+A simple Card Displaying User Profile
 
 ## Features
 
